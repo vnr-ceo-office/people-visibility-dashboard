@@ -1,0 +1,13 @@
+# Ignore Power BI files
+*.pbix
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
